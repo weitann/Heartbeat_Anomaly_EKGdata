@@ -49,4 +49,5 @@ The dataset is train and tested using the following models with their results fo
 | Random Forest | 0.935 | 0.940 | 0.948 | 0.922 | 0.893 | 0.922 |
 | GBC | 0.956 | 0.961 | 0.970 | 0.942 | 0.937 | 0.942 |
 | SVC | 0.883 | 0.894 | 0.914 | 0.852 | 0.824 | 0.852 |
+| CNN | 0.787 | 0.723 | 0.810 | 0.539 | 0.571 | 0.539 |
 
