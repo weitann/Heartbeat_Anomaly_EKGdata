@@ -45,9 +45,8 @@ The dataset is train and tested using the following models with their results fo
 
 | Model | ROC AUC | Accuracy | Specificity | Sensitivity | Recall | Precision |
 | --- | --- | --- | --- | --- | --- | --- |
-| Logistics Regression | 0 | 0.801 | 0.873 | 0.646 | 0.706 | 0.646 |
-| Random Forest | 0 | 0.940 | 0.948 | 0.922 | 0.893 | 0.922 |
-| GBC | 0 | 0.961 | 0.970 | 0.942 | 0.937 | 0.942 |
-| SVC | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1D-CNN | 0 | 0 | 0 | 0 | 0 | 0 |
+| Logistics Regression | 0.760 | 0.801 | 0.873 | 0.646 | 0.706 | 0.646 |
+| Random Forest | 0.935 | 0.940 | 0.948 | 0.922 | 0.893 | 0.922 |
+| GBC | 0.956 | 0.961 | 0.970 | 0.942 | 0.937 | 0.942 |
+| SVC | 0.883 | 0.894 | 0.914 | 0.852 | 0.824 | 0.852 |
 
